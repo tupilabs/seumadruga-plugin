@@ -197,6 +197,6 @@
     		</plugins>
     	</pluginManagement>
     </build>
-    <packaging>war</packaging>
+    <packaging>hpi</packaging>
 </project>  
 
