@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causes>
+        <hudson.model.Cause_-UserIdCause/>
+      </causes>
+    </hudson.model.CauseAction>
+    <jenkins.plugins.seumadruga.SeuMadrugaAction>
+      <mStyle>FAILURE</mStyle>
+      <mFact>Isto &amp;eacute; uma cali&amp;uacute;nia! Uma cali&amp;uacute;nia! Voc&amp;ecirc; sabe o que &amp;eacute; uma cali&amp;uacute;nia?</mFact>
+    </jenkins.plugins.seumadruga.SeuMadrugaAction>
+  </actions>
+  <number>4</number>
+  <result>FAILURE</result>
+  <duration>71</duration>
+  <charset>UTF-8</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>/home/kinow/java/jenkins-workspace/seumadruga-plugin/work/workspace/123</workspace>
+  <hudsonVersion>1.434</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits/>
+</build>

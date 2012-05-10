@@ -1,4 +1,10 @@
 *.class
+.project
+.settings
+.buildpath
+.classpath
+target
+test-output
 
 # Package Files #
 *.jar

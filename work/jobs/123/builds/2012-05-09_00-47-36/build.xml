@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causes>
+        <hudson.model.Cause_-UserIdCause/>
+      </causes>
+    </hudson.model.CauseAction>
+    <jenkins.plugins.seumadruga.SeuMadrugaAction>
+      <mStyle>SUCCESS</mStyle>
+      <mFact>Eu, mesmo sem um centavo no bolso, sempre trago no rosto um sorriso franco e espont&amp;acirc;neo. &amp;Oacute;, veja!</mFact>
+    </jenkins.plugins.seumadruga.SeuMadrugaAction>
+  </actions>
+  <number>2</number>
+  <result>SUCCESS</result>
+  <duration>47</duration>
+  <charset>UTF-8</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>/home/kinow/java/jenkins-workspace/seumadruga-plugin/work/workspace/123</workspace>
+  <hudsonVersion>1.434</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits/>
+</build>
