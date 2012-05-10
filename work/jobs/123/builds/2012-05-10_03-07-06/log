@@ -1,6 +1,0 @@
-Started by user anonymous
-[workspace] $ /bin/sh -xe /tmp/hudson992586866335237022.sh
-+ ddfs
-/tmp/hudson992586866335237022.sh: 2: /tmp/hudson992586866335237022.sh: ddfs: not found
-Build step 'Execute shell' marked build as failure
-Finished: FAILURE
