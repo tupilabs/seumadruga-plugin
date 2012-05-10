@@ -5,6 +5,7 @@
 .classpath
 target
 test-output
+work
 
 # Package Files #
 *.jar
