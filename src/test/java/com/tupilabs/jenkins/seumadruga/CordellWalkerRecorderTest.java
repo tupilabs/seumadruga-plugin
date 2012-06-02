@@ -1,4 +1,4 @@
-package jenkins.plugins.seumadruga;
+package com.tupilabs.jenkins.seumadruga;
 
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
@@ -13,10 +13,11 @@ import hudson.model.Result;
 import java.util.ArrayList;
 import java.util.List;
 
-import jenkins.plugins.seumadruga.CordellWalkerRecorder;
-import jenkins.plugins.seumadruga.SentenceGenerator;
-import jenkins.plugins.seumadruga.SeuMadrugaAction;
-import jenkins.plugins.seumadruga.Style;
+import com.tupilabs.jenkins.seumadruga.CordellWalkerRecorder;
+import com.tupilabs.jenkins.seumadruga.SentenceGenerator;
+import com.tupilabs.jenkins.seumadruga.SeuMadrugaAction;
+import com.tupilabs.jenkins.seumadruga.Style;
+
 
 import junit.framework.TestCase;
 

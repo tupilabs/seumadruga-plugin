@@ -1,7 +1,9 @@
-package jenkins.plugins.seumadruga;
+package com.tupilabs.jenkins.seumadruga;
 
 import static org.mockito.Mockito.mock;
-import jenkins.plugins.seumadruga.SeuMadrugaDescriptor;
+
+import com.tupilabs.jenkins.seumadruga.SeuMadrugaDescriptor;
+
 import hudson.model.AbstractProject;
 import junit.framework.TestCase;
 

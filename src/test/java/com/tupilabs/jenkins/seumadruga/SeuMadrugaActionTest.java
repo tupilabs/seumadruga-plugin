@@ -1,7 +1,8 @@
-package jenkins.plugins.seumadruga;
+package com.tupilabs.jenkins.seumadruga;
 
-import jenkins.plugins.seumadruga.SeuMadrugaAction;
-import jenkins.plugins.seumadruga.Style;
+import com.tupilabs.jenkins.seumadruga.SeuMadrugaAction;
+import com.tupilabs.jenkins.seumadruga.Style;
+
 import junit.framework.TestCase;
 
 public class SeuMadrugaActionTest extends TestCase {

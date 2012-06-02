@@ -1,6 +1,7 @@
-package jenkins.plugins.seumadruga;
+package com.tupilabs.jenkins.seumadruga;
 
-import jenkins.plugins.seumadruga.SentenceGenerator;
+import com.tupilabs.jenkins.seumadruga.SentenceGenerator;
+
 import junit.framework.TestCase;
 
 public class SentenceGeneratorTest extends TestCase {

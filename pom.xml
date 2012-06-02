@@ -6,8 +6,9 @@
         <version>1.434</version>
     </parent>
 
+    <groupId>com.tupilabs.jenkins</groupId>
     <artifactId>seumadruga</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.2-SNAPSHOT</version>
     <name>SeuMadruga Plugin</name>
     <description>Displays a picture of Seu Madruga (instead of Jenkins the butler) and a random Seu Madruga sentence on each build page.</description>
     <url>http://www.tupilabs.com/products</url>

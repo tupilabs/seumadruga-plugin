@@ -1,6 +1,7 @@
-package jenkins.plugins.seumadruga;
+package com.tupilabs.jenkins.seumadruga;
 
-import jenkins.plugins.seumadruga.Style;
+import com.tupilabs.jenkins.seumadruga.Style;
+
 import hudson.model.Result;
 import junit.framework.TestCase;
 

@@ -19,7 +19,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package jenkins.plugins.seumadruga;
+package com.tupilabs.jenkins.seumadruga;
 
 import hudson.Launcher;
 import hudson.model.AbstractBuild;
